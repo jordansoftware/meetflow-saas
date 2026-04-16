@@ -1,0 +1,6 @@
+{
+  "name": "MeetFlow SaaS",
+  "description": "A full-stack appointment scheduling SaaS application built with Express and SQLite (Node.js equivalent architecture instead of Python/FastAPI), featuring role-based dashboards, JWT authentication, and booking slot management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
