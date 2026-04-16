@@ -13,6 +13,18 @@ MeetFlow is a modern, full-stack appointment scheduling platform designed to eli
 - **Analytics Dashboard**: Insights on total bookings, open slots, and no-show clients.
 - **Simulated Notification System**: Ready-to-connect email notification hooks for bookings and cancellations.
 
+## 📸 Screenshots
+
+*(Replace the placeholder URLs with actual images of your app before publishing)*
+
+| Landing Page | Dashboard (Professional) |
+|:---:|:---:|
+| <img src="https://placehold.co/600x400/f8fafc/0f172a?text=Landing+Page+Screenshot" alt="MeetFlow Landing Page" width="100%"> | <img src="https://placehold.co/600x400/f8fafc/0f172a?text=Dashboard+Screenshot" alt="Professional Dashboard" width="100%"> |
+
+| Public Booking Page | Login Session |
+|:---:|:---:|
+| <img src="https://placehold.co/600x400/f8fafc/0f172a?text=Public+Booking+Page" alt="Public Scheduling Page" width="100%"> | <img src="https://placehold.co/600x400/f8fafc/0f172a?text=Authentication" alt="Login & Registration" width="100%"> |
+
 ## 💻 Tech Stack
 
 - **Frontend**: React 19, TypeScript, Vite, Tailwind CSS v4, Lucide React, React Router.
